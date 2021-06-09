@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : assets/SalusLogoSquare.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Salus                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Getting you the best deal
+app_description                           : Getting you the best deal!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Salus                                
-your_link                                 : https://emilbaehr.com                     
+your_link                                 : https://salus2021.github.io/automatic-app-landing-page/                
 your_city                                 : Toronto                                
 email_address                             : salus2021@uofthatchery.ca
 facebook_username                         :                                           
