@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : assets/SalusLogoSquare.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Salus                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Getting you the best deal!
+app_description                           : We are a team of 2 looking to bring you the best deal possible! We want to hear what you have to say, so we can give you an experience that you truly want. If you have some time, please take our survey. Just click on the button below, we promise it will take less than 10 minutes. Oh, and also, did we tell you, by filling out the survey you are eligible to recieve a 25 dollar gift card from the store of your choice!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
