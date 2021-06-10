@@ -37,9 +37,9 @@
                             </svg>
                         </div>
                         <div class="appNamePriceContainer">
-                            <li>
-                                <ul> Hello from {{ site.app_name }}! </ul>
-                            </li>
+                            <h1 class="appName" align = "left">
+                                Hello from {{ site.app_name }}!
+                            </h1>
                             <h2 class="appPrice">
                                 {{ site.app_price }}
                             </h2>
@@ -53,7 +53,7 @@
                             {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
                             {% endif %}
-                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/TakeTheSurveyButton.png" margin = "0px 0px 0px 10px"></a>
+                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/TakeTheSurveyButton.png"></a>
                         </div>
                     </div>
                     {% include features.html %}
